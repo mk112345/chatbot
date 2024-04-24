@@ -1,0 +1,15 @@
+langchain
+sentence-transformers
+pypdf
+flask
+faiss-cpu
+
+python-dotenv
+# streamlit
+unstructured
+langchain_community
+langchain-text-splitters
+langchain_google_genai
+
+google-generativeai
+# -e .
